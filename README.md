@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boluwatife
+- 👋 Hi, I’m Boluwatife Olasehinde
 - 👀 I’m interested in Website Programming
 - 🌱 I’m currently learning JavaScript
 
